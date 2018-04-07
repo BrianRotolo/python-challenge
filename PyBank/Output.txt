@@ -1,0 +1,6 @@
+Financial Analysis
+----------------------------
+Total Months: 41
+Total Revenue: 18971412
+Greatest increase in Revenue: Feb-16 1837235
+Greatest decrease in Revenue: Aug-14 -1779747
